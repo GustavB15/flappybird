@@ -1,6 +1,10 @@
 # flappybird
 Project made in the course IS1200 at KTH. It is a remake of the classic flappy bird game. The game is made mostly in C and compiled to MIPS code which runs on the chipKIT 32-bit uno board. Uses I/O on the board for controlling and displaying the game. As well as timer interrupts to ensure consistent updates. 
 
+NOTE: SEE COPYING.
+As part of the project, files were given to us as a template to start from. The parts in the files that were given to us and the parts written by me (Gustav Björs) and my collaborator Samuel Bergsten Grip are clearly marked by comments. 
+
+
 Instructions:
 
 The following instructions assume you are using the MSYS2 software and a ChipKIT Uno32 on a windows system
